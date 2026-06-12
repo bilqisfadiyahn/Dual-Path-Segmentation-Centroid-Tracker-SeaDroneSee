@@ -20,7 +20,7 @@ Proyek ini disusun sebagai bagian dari tugas mata kuliah Pengolahan Citra Digita
 
 ---
 
-## 💾 Dataset
+## Dataset
 
 Dataset yang digunakan adalah **Sea Drone See Dataset**, yaitu dataset citra maritim yang dikembangkan untuk penelitian deteksi dan pelacakan objek menggunakan drone.
 
@@ -31,7 +31,7 @@ Objek utama yang digunakan dalam proyek ini meliputi:
 
 Dataset diunduh secara **otomatis menggunakan Kaggle API**, sehingga pengguna tidak perlu mengunduh dataset secara manual.
 
-🔗 **Link Sumber Dataset:**
+**Link Sumber Dataset:**
 
 https://www.kaggle.com/datasets/ubiratanfilho/sds-dataset/data
 
@@ -39,7 +39,7 @@ https://www.kaggle.com/datasets/ubiratanfilho/sds-dataset/data
 
 ---
 
-## 📂 Struktur Folder Repository
+## Struktur Folder Repository
 
 ```text
 ├── Code/
